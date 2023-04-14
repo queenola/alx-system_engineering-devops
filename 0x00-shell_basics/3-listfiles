@@ -1,3 +1,9 @@
 #!/bin/bash
 ls
+#!/bin/bash
+ls -l
+#!/bin/bash
+ls -l
+#!/bin/bash
+ls -l
 
